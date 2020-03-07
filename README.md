@@ -1,2 +1,2 @@
 # git-github
-Sample for use
+Sample for practice

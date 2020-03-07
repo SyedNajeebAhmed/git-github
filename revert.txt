@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello world, from najeeb
 hello earth
+=======
+hello world 
+hi world
+>>>>>>> 975b23211cb5ce1fe31e83084b0279de3908c726
